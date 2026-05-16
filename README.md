@@ -97,4 +97,4 @@ Cost Optimization: Granular visibility into Vendor Spend and Expense Breakdowns 
 
 Resource Allocation: Proving that the "Online" segment is a major revenue driver justifies shifting marketing budgets to support digital growth.
 
-Link of the dashboard overview- []
+Link of the dashboard overview- [https://github.com/lavikarana-lrd/financial-performance-analysis-excel-sql-python-powerbi/blob/main/dashboard%20view.png]
